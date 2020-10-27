@@ -1,2 +1,2 @@
-# logicadeprogramacao
+# estudodelogica
 Conceitos e Aplicações
